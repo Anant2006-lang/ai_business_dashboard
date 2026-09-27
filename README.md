@@ -98,12 +98,5 @@ Python, Pandas, SQL (SQLite), Streamlit, Plotly, Google Gemini API.
 Data Analysis, SQL, Data Visualization, Prompt Engineering, LLM
 Integration, Data Pipeline Design.
 
-## Live demo
-[business-dash.streamlit.app](https://business-dash.streamlit.app)
-
-## 👤 Author
-
-**Vikash Verma**
-Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
 
 ---
