@@ -91,7 +91,7 @@ Then run `clean_data.py` and `db.py` again before launching the app.
 
 ## Tech Stack
 
-Python, Pandas, SQL (SQLite), Streamlit, Plotly, Google Gemini API.
+Python language, Pandas (pd) , SQL (SQLite), Streamlit, Plotly, Google Gemini API.
 
 ## Skills Demonstrated
 
